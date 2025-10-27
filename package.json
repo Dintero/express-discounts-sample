@@ -1,0 +1,19 @@
+{
+  "name": "express-discounts-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "create-session": "node --experimental-strip-types bin/create-session.ts",
+    "dintero-login": "node --experimental-strip-types bin/dintero-login.ts",
+    "serve": "node --watch --experimental-strip-types src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dintero/node-sdk": "^1.4.1",
+    "@types/node": "24.9.1",
+    "express": "5.1.0"
+  }
+}
