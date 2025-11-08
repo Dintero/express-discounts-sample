@@ -34,5 +34,6 @@ npm run dintero-login
 
 Run this command to create a session. Open the resulting url in a browser.
 
+```
 npm run create-session --callback_public_hostname <ngrok_url>
 ```
