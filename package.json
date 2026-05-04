@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@dintero/node-sdk": "^1.4.1",
-    "@types/node": "24.9.1",
+    "@types/node": "25.5.2",
     "express": "5.1.0"
   }
 }
