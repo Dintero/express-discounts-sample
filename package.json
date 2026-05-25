@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dintero/node-sdk": "^1.4.11",
+    "@dintero/node-sdk": "^1.4.12",
     "@types/node": "24.12.4",
     "express": "5.2.1"
   }
